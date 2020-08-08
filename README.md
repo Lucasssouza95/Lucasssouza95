@@ -4,7 +4,7 @@
 
 <h2>Olá Pessoal</h2>
 <p>
-  Meu nome é Lucas Souza <br>
+  :purple_heart: &nbsp; Meu nome é Lucas Souza 😝<br>
   Trabalho atualmente na Toque Fale, uma empresa do grupo Santander. <br>
   Sou estudando de Analise e Desenvolvimento de sistemas. <br>
   Ainda não tenho esperiencia profissional como dev, mas estou em busca de opotunidades para iniciar uma carreira. <br>
