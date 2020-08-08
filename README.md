@@ -4,17 +4,17 @@
 
 <h2>Olá Pessoal</h2>
 <p>
-  :purple_heart: &nbsp; Meu nome é Lucas Souza 😝<br>
+  Meu nome é Lucas Souza 😝<br>
   Trabalho atualmente na Toque Fale, uma empresa do grupo Santander. <br>
-  Sou estudando de Analise e Desenvolvimento de sistemas. <br>
+  Sou estudando de Analise e Desenvolvimento de sistemas. <br><br>
   Ainda não tenho esperiencia profissional como dev, mas estou em busca de opotunidades para iniciar uma carreira. <br>
-  Me identifico muito com JS e protendo me especializar nesta linguaçem. <br>
+  :computer: &nbsp; Minha stack: Me identifico muito com JS e protendo me especializar nesta linguagem. <br>
   Posso apoialos em funcionalidades com JS em front-end e com CSS.
 </p>
 
 <h2>Meu constatos</h2>
 
 <p>
-  ✉️E-mail: lucass.souza@hotmail.com
+  :email: &nbsp;E-mail: lucass.souza@hotmail.com
   linkedin: www.linkedin.com/in/lucas-dos-santos-de-souza-549692190
 </p>
