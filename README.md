@@ -4,7 +4,7 @@
 
 <h2>Olá Pessoal</h2>
 <p>
-  Meu nome é Lucas Souza 😝<br>
+  Meu nome é Lucas Souza<br>
   :briefcase: &nbsp; Trabalho atualmente na Toque Fale, uma empresa do grupo Santander. <br>
   :mortar_board: &nbsp; Sou estudante de Analise e Desenvolvimento de sistemas. <br><br>
   :confused: &nbsp; Ainda não tenho experiencia profissional como dev, mas estou em busca de opotunidades para iniciar uma carreira :muscle: &nbsp; :pray: <br>
